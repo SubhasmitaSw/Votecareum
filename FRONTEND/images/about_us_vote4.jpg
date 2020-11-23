@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+  
+	<title>Blockchain and online voting! &#8211; Vote Au Pluriel</title>
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Vote Au Pluriel &raquo; Feed" href="https://voteaupluriel.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vote Au Pluriel &raquo; Comments Feed" href="https://voteaupluriel.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/voteaupluriel.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://voteaupluriel.org/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lptw-style-css'  href='https://voteaupluriel.org/wp-content/plugins/advanced-recent-posts/lptw-recent-posts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://voteaupluriel.org/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prs_font_awesome-css'  href='https://voteaupluriel.org/wp-content/plugins/project-supremacy-v3/assets/css/vendor/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prs_review_widget-css'  href='https://voteaupluriel.org/wp-content/plugins/project-supremacy-v3/assets/css/review-widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prs_review_display-css'  href='https://voteaupluriel.org/wp-content/plugins/project-supremacy-v3/assets/css/review-display.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='https://voteaupluriel.org/wp-content/plugins/simple-contact-info-widget/css/hover-min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='WRT-style-css'  href='https://voteaupluriel.org/wp-content/themes/writee/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='WRT-main-style-css'  href='https://voteaupluriel.org/wp-content/themes/writee/assets/css/style-ltr.css' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var prs_data = {"wp_get":"https:\/\/voteaupluriel.org\/wp-admin\/admin-ajax.php","wp_post":"https:\/\/voteaupluriel.org\/wp-admin\/admin-post.php","plugins_url":"https:\/\/voteaupluriel.org\/wp-content\/plugins","sitename":"Vote Au Pluriel","ps_user_membership":"Forever Free"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/plugins/project-supremacy-v3/assets/js/prs_user.js'></script>
+<script type='text/javascript' src='//www.google.com/recaptcha/api.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/plugins/project-supremacy-v3/assets/js/review-widget.js'></script>
+<link rel='https://api.w.org/' href='https://voteaupluriel.org/wp-json/' />
+<link rel='prev' title='Nokia puts operators on the road to 5G by boosting 4G performance' href='https://voteaupluriel.org/blogging/nokia-puts-operators-road-5g-boosting-4g-performance/' />
+<link rel='next' title='Xbox One X versus PS4 Pro' href='https://voteaupluriel.org/blog/xbox-one-x-versus-ps4-pro/' />
+<link rel="canonical" href="https://voteaupluriel.org/blog/blockchain-online-voting/" />
+<link rel='shortlink' href='https://voteaupluriel.org/?p=114' />
+<link rel="alternate" type="application/json+oembed" href="https://voteaupluriel.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvoteaupluriel.org%2Fblog%2Fblockchain-online-voting%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://voteaupluriel.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvoteaupluriel.org%2Fblog%2Fblockchain-online-voting%2F&#038;format=xml" />
+
+
+<style type="text/css">html, body {font-size:14px;line-height:1.2;}.entry-content a:not([class]), a:active, a:focus, a:hover{color:#bf9e3b}.social-navigation.theme-colors,
+		.comments-area .comments-list .comment .comment-meta .comment-header .comment-reply,
+		.entry .entry-header .entry-meta .entry-cat,
+		.entry .entry-quote-author,
+		.widget.widget_recent-post .entry-list .entry .entry-meta .entry-cat, 
+		.widget.widget_popular-post .entry-list .entry .entry-meta .entry-cat, 
+		.widget.widget_posts .entry-list .entry .entry-meta .entry-cat, 
+		.widget.widget_recent_posts .entry .entry-meta .entry-cat, 
+		.widget.widget_related_posts .entry .entry-meta .entry-cat,
+		.widget.widget_categories ul li a:hover,
+		.widget.widget_product_categories ul li a:hover,
+		.widget.widget_archive ul li a:hover,
+		.widget.widget_archives ul li a:hover,
+		.widget.widget_twitter .tweets-list .tweet a,
+		.widget.widget_recent_comments .recentcomments span a{ color :#bf9e3b}.widget.widget_categories ul li a:before,
+		.widget.widget_product_categories ul li a:before,
+		.widget.widget_archive ul li a:before, 
+		.widget.widget_archives ul li a:before
+		.widget.widget_archives ul li a:before {background-color: #bf9e3b }.widget.widget_tag_cloud .tagcloud a:hover {
+			color:#bf9e3b;
+			border-color:#bf9e3b}.pace-running .pace{background-color:#ffffff;}
+	.pace-done .pace{background-color:transparent;}
+	.pace {
+	  -webkit-pointer-events: none;
+	  pointer-events: none;
+
+	  -webkit-user-select: none;
+	  -moz-user-select: none;
+	  user-select: none;
+
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  z-index:9999;
+
+	  -webkit-transform: translate3d(0, -50px, 0);
+	  -ms-transform: translate3d(0, -50px, 0);
+	  transform: translate3d(0, -50px, 0);
+
+	  -webkit-transition: -webkit-transform .5s ease-out;
+	  -ms-transition: -webkit-transform .5s ease-out;
+	  transition: transform .5s ease-out;
+	}
+
+	.pace.pace-active {
+	  -webkit-transform: translate3d(0, 0, 0);
+	  -ms-transform: translate3d(0, 0, 0);
+	  transform: translate3d(0, 0, 0);
+	}
+
+	.pace .pace-progress {
+	  display: block;
+	  position: fixed;
+	  z-index: 2000;
+	  top: 0;
+	  right: 100%;
+	  width: 100%;
+	  height: 5px;
+	  background:#bf9e3b;
+	  pointer-events: none;
+	}
+   </style><script> 
+	var RTL = false;
+	</script><link rel="icon" href="https://voteaupluriel.org/wp-content/uploads/2017/09/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://voteaupluriel.org/wp-content/uploads/2017/09/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://voteaupluriel.org/wp-content/uploads/2017/09/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://voteaupluriel.org/wp-content/uploads/2017/09/cropped-icon-270x270.png" />
+  
+</head>
+<body data-rsssl=1 id="site-body" class="post-template-default single single-post postid-114 single-format-standard theme-header4">
+<div class="site-mobile-navigation"></div>
+<div class="site-wrapper  shadow-wrapper">
+
+		<header id="site-header" class="site-header">
+		<div class="site-header-top">
+			<div class="site-container">
+				<div class="site-row">
+					
+					<div class="site-header-top-left site-column-9">
+					
+												<nav class="primary-navigation" id="primary-navigation">
+							
+							<ul id="menu-menu" class=""><li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="https://www.voteaupluriel.org">Home</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://voteaupluriel.org/about/">About</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://voteaupluriel.org/online-voting/">Online Voting</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-36"><a href="https://voteaupluriel.org/category/blog/">Blog</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://voteaupluriel.org/contact/">Contact</a></li>
+</ul>						</nav>
+						<a href="https://voteaupluriel.org" class="mobile-navigation-toggle"></a>
+											</div>
+					
+									</div>
+			</div>
+		</div>
+		
+		<div class="site-header-bottom">
+			<div class="site-container">
+				<div class="site-row">
+					<div class="site-header-middle-center">
+						<div class="site-brand">
+												
+							<h2 class="site-heading">							<a href="https://voteaupluriel.org/" rel="home">Vote Au Pluriel</a>
+							</h2>														<p class="site-tagline">Online Voting Technology and Tech News</p>
+							
+												
+					
+												
+						<a href="https://voteaupluriel.org/" class="mobile-navigation-toggle"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header><!-- / header -->	<section class="site-main with-right-sidebar ">
+	
+        <div class="site-container">
+            <div class="site-row">
+			
+				<div class="site-content  with-sidebar expand-view " id="site-content" role="main">
+				<article id="entry-114" class="post-114 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-breakthrough-technologies-that-will-influence-the-lives-of-everyone-in-2017 entry entry-center">
+
+		<div class="entry-row">
+		<div class="entry-full-center" style="text-align:center;">
+				<div class="entry-header">
+		<div class="entry-meta">
+			<span class="entry-cat"><a href="https://voteaupluriel.org/category/blog/" rel="category tag">Blog</a> <a href="https://voteaupluriel.org/category/breakthrough-technologies-that-will-influence-the-lives-of-everyone-in-2017/" rel="category tag">breakthrough technologies that will influence the lives of everyone in 2017</a></span>
+		</div>
+		<h1 class="entry-title">Blockchain and online voting!</h1>		<div class="entry-meta">
+			<span class="entry-author">By <a href="https://voteaupluriel.org/author/nancy-shows/" title="Posts by Nancy Shows" rel="author">Nancy Shows</a> </span>
+			<span class="entry-date">on <a href="https://voteaupluriel.org/2017/10/">Wednesday, October 18, 2017</a></span>
+		</div>
+	</div><div  class="entry-media" >
+					<a href="https://voteaupluriel.org/blog/blockchain-online-voting/" class="entry-thumb" title="Permalink to: &quot;Blockchain and online voting!&quot;"><img width="672" height="463" src="https://voteaupluriel.org/wp-content/uploads/2017/10/blockchain-and-voting.png" class="attachment-WRT-post-image size-WRT-post-image wp-post-image" alt="blockchain and voting" srcset="https://voteaupluriel.org/wp-content/uploads/2017/10/blockchain-and-voting.png 672w, https://voteaupluriel.org/wp-content/uploads/2017/10/blockchain-and-voting-300x207.png 300w" sizes="(max-width: 672px) 100vw, 672px" /></a>
+				</div>			
+			<div class="entry-content">
+				
+				<p>The blockchain offers a secure voting tool, the result of which is transparent and auditable by everyone. Neither the voting administrator nor other individuals may modify the vote a posteriori.</p>
+<p><iframe src="https://www.youtube.com/embed/6f3h9oWEpDY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>At least three elements are necessary to carry out a vote on a blockchain: <strong>a programmable asset</strong>, <strong>a protocol</strong> to make the vote live; and <strong>a cryptographic key</strong> called a token, a kind of digital electoral card, to guarantee the voter&#8217;s identity.</p>
+<p>Above each bitcoin transaction is metadata that can represent a digital asset: this asset can be a vote, a financial asset, or a physical asset (an object) that would be recorded on a blockchain, which would provide proof of existence.</p>
+<p><em>A vote is a critical transaction: it must be executed quickly by the network. To do this, transaction fees are added to remunerate miners which are securing the network.</em></p>
+<p>They start by processing the transactions with the highest fees and then handle the subsequent operations in descending order. If the network is saturated when a vote is a cast, minors will tend to defer this vote to the next blocks. Therefore, the idea is to put transaction fees of about 10 euro cents (depending on the bitcoin price) to be more or less sure that the network will process the vote.</p>
+<p>The voting administrator (which may be an association, or a company organizing an AGM with its shareholders, or even a state) places as many tokens as there are votes cast on a specific protocol. It transmits these tokens to all voters, who have access to an electronic wallet to hold the tokens.</p>
+<h2>Candidates have access to a digital ballot box.</h2>
+<p><img class="alignright wp-image-116" src="https://voteaupluriel.org/wp-content/uploads/2017/10/afsgdbndcnvmfgihkglllllllll.png" alt="afsgdbndcnvmfgihkglllllllll" width="295" height="176" srcset="https://voteaupluriel.org/wp-content/uploads/2017/10/afsgdbndcnvmfgihkglllllllll.png 427w, https://voteaupluriel.org/wp-content/uploads/2017/10/afsgdbndcnvmfgihkglllllllll-300x179.png 300w" sizes="(max-width: 295px) 100vw, 295px" />A wallet, with a public address. When the voter issues his or her voting token, he or she transfers both the bitcoins that include transaction fees and the metadata that represents the vote. At the end of the vote, the winning candidate is the one who received the most chips.</p>
+<p>To complete this process, a digital electoral map is necessary to ensure that whoever presents himself to his wallet is the owner of this wallet. One part of the key is public, the other private: you can draw a parallel in the traditional banking world with the RIB, which you can communicate to anyone, and the PIN code, which must not be shared.</p>
+<p>The projects dedicated to voting on the blockchain are still in the experimental stage. One of them, Boule, estimates that a traditional vote costs about 5 dollars and that this cost could be divided by 2 or even 3 using the bitcoin block chine.</p>
+<h3>However, there are still some obstacles to be overcome if the vote on the blockade is to take place.</h3>
+<p>The cost of transactions: in the case of a vote of 1 million people, with transaction fees of 10 cents, the cost of organizing the vote would be 100,000 minimum&#8230;</p>
+<p>The speed of transactions: today it is estimated at 7 transactions per second on the Bitcoin network. For example, it would take an average of 23 operations per second to get 1 million voters to vote within 12 hours.</p>
+<p>Protection of the digital electoral map against malware attack, which could corrupt the vote. However, a parade is conceivable: not to store the cryptographic key on software but hardware, i. e. in a physical way, like the key proposed by the start-up Ledger.</p>
+<p>We&#8217;ll see where this ends I guess over the course of the next few months/years&#8230;</p>
+<div class="grammarly-disable-indicator"></div>
+				
+			</div>
+			<div class="entry-paginated-link"></div>
+			
+	<div class="entry-footer">
+				<div class="entry-footer-bottom">
+			<div class="entry-share">
+				<ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://voteaupluriel.org/blog/blockchain-online-voting/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><span class="fa fa-facebook"></span></a></li><li><a href="http://twitter.com/share?text=Blockchain%20and%20online%20voting!&#038;url=https://voteaupluriel.org/blog/blockchain-online-voting/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><span class="fa fa-twitter"></span></a></li><li><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=https://voteaupluriel.org/blog/blockchain-online-voting/&#038;media=https://voteaupluriel.org/wp-content/uploads/2017/10/blockchain-and-voting.png&#038;description=Blockchain%20and%20online%20voting!', 'pinterest-share', 'width=490,height=530');return false;"><span class="fa fa-pinterest-p"></span></a></li><li><a href="https://plus.google.com/share?url=https://voteaupluriel.org/blog/blockchain-online-voting/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"><span class="fa fa-google-plus"></span></a></li></ul>			</div>
+			<div class="entry-comments">
+				<a href="https://voteaupluriel.org/blog/blockchain-online-voting/#respond"><span class="fa fa-comment"></span>
+					<span class="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>			
+		</div>
+	</div>
+	
+		<div class="entry-navigation">
+				<div class="entry-previous">
+			<a href="https://voteaupluriel.org/blogging/nokia-puts-operators-road-5g-boosting-4g-performance/" rel="prev"> Previous Post</a>		</div> 
+				<div class="entry-next">
+			<a href="https://voteaupluriel.org/blog/xbox-one-x-versus-ps4-pro/" rel="next">Next Post</a>		</div>
+			</div><!-- .post-navigation -->
+		<div class="widget widget_related_posts">
+		<h6 class="widget-title"><span>Related Posts</span></h6>
+		<div class="entry-list entry-big-thumb">
+							<article class="entry">
+					<div  class="entry-media" >
+					<a href="https://voteaupluriel.org/blog/top-tips-on-choosing-a-web-hosting-company/" class="entry-thumb" title="Permalink to: &quot;Top Tips On Choosing A Web Hosting Company&quot;"><img width="300" height="154" src="https://voteaupluriel.org/wp-content/uploads/2018/06/good-web-hosting-is-critical-300x154.png" class="attachment-medium size-medium wp-post-image" alt="good web hosting is critical" srcset="https://voteaupluriel.org/wp-content/uploads/2018/06/good-web-hosting-is-critical-300x154.png 300w, https://voteaupluriel.org/wp-content/uploads/2018/06/good-web-hosting-is-critical-768x393.png 768w, https://voteaupluriel.org/wp-content/uploads/2018/06/good-web-hosting-is-critical-1024x525.png 1024w, https://voteaupluriel.org/wp-content/uploads/2018/06/good-web-hosting-is-critical.png 1780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</div>					<div class="entry-meta">
+						<span class="entry-cat"><a href="https://voteaupluriel.org/category/blog/" rel="category tag">Blog</a></span>
+					</div>
+					<h4 class="entry-title"><a href="https://voteaupluriel.org/blog/top-tips-on-choosing-a-web-hosting-company/" rel="bookmark" title="Top Tips On Choosing A Web Hosting Company">Top Tips On Choosing A Web Hosting Company</a></h4>				</article>
+							<article class="entry">
+					<div  class="entry-media" >
+					<a href="https://voteaupluriel.org/breakthrough-technologies-that-will-influence-the-lives-of-everyone-in-2017/an-aerial-robot-capable-changing-shape-full-flight/" class="entry-thumb" title="Permalink to: &quot;An aerial robot capable of changing its shape in full flight&quot;"><img width="300" height="192" src="https://voteaupluriel.org/wp-content/uploads/2018/06/the-Quad-Morphing-robot-300x192.png" class="attachment-medium size-medium wp-post-image" alt="the Quad-Morphing robot" srcset="https://voteaupluriel.org/wp-content/uploads/2018/06/the-Quad-Morphing-robot-300x192.png 300w, https://voteaupluriel.org/wp-content/uploads/2018/06/the-Quad-Morphing-robot-768x490.png 768w, https://voteaupluriel.org/wp-content/uploads/2018/06/the-Quad-Morphing-robot.png 830w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</div>					<div class="entry-meta">
+						<span class="entry-cat"><a href="https://voteaupluriel.org/category/breakthrough-technologies-that-will-influence-the-lives-of-everyone-in-2017/" rel="category tag">breakthrough technologies that will influence the lives of everyone in 2017</a></span>
+					</div>
+					<h4 class="entry-title"><a href="https://voteaupluriel.org/breakthrough-technologies-that-will-influence-the-lives-of-everyone-in-2017/an-aerial-robot-capable-changing-shape-full-flight/" rel="bookmark" title="An aerial robot capable of changing its shape in full flight">An aerial robot capable of changing its shape in full flight</a></h4>				</article>
+							<article class="entry">
+					<div  class="entry-media" >
+					<a href="https://voteaupluriel.org/blog/dji-care-service-worth-purchasing/" class="entry-thumb" title="Permalink to: &quot;DJI Care Service: Is it worth purchasing it?&quot;"><img width="300" height="253" src="https://voteaupluriel.org/wp-content/uploads/2017/12/dji-care-refresh-300x253.png" class="attachment-medium size-medium wp-post-image" alt="dji care refresh" srcset="https://voteaupluriel.org/wp-content/uploads/2017/12/dji-care-refresh-300x253.png 300w, https://voteaupluriel.org/wp-content/uploads/2017/12/dji-care-refresh.png 658w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</div>					<div class="entry-meta">
+						<span class="entry-cat"><a href="https://voteaupluriel.org/category/blog/" rel="category tag">Blog</a></span>
+					</div>
+					<h4 class="entry-title"><a href="https://voteaupluriel.org/blog/dji-care-service-worth-purchasing/" rel="bookmark" title="DJI Care Service: Is it worth purchasing it?">DJI Care Service: Is it worth purchasing it?</a></h4>				</article>
+					</div>
+	</div>
+    
+</article>								</div>
+				
+								<div class="site-sidebar" id="sidebar" role="complementary">
+					<aside id="search-2" class="widget widget_search"><h6 class="widget-title"><span>Find Here.</span></h6><form role="search" method="get" id="searchform" class="search-form" action="https://voteaupluriel.org/">
+	<label class="screen-reader-text" for="s">
+	Search for:	</label>
+	<input type="text" value="" placeholder="Search..." name="s" id="s" class="search-input" />
+	<label for="searchsubmit" class="fa fa-search search-submit-icon"></label>
+	<input type="submit" id="searchsubmit" value="Search" class="search-submit" />
+</form></aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><p><a href="https://www.linkev.com/?a_fid=opportunitesd" target="_blank" rel="nofollow noopener noreferrer"><br />
+<img border="0" alt="VPN" src="https://voteaupluriel.org/wp-content/uploads/2019/01/expressvpn-trusted-banner.png" width="300" height="250"></p>
+</div>
+		</aside>		<aside id="lptw-fluid-images-recent-posts-2" class="widget lptw_recent_posts_fluid_images_widget">		<h6 class="widget-title"><span>Recent posts</span></h6>		<ul class="lptw-recent-posts-fluid-images-widget">
+		        
+
+			<li>
+                				<div class="lptw-post-thumbnail">
+                    <a href="https://voteaupluriel.org/through-the-use-of-technologies/3d-printing-is-changing-the-artistic-design/" class="lptw-post-thumbnail-link"><div class="overlay overlay-light"><img src="https://voteaupluriel.org/wp-content/uploads/2018/10/3d-printing-machine.jpg" alt="3D printing is changing the artistic design" /></div>
+                    <div class="lptw-post-header">
+        		    	            		    	        	    			<span class="lptw-post-date date-light">10/06/2018 12:12 pm</span>
+            			                		    	        		    		<span class="lptw-post-title title-light">3D printing is changing the artistic design</span>
+            			                		    	            			                    </div>
+                    </a>
+                </div>
+                			</li>
+		        
+
+			<li>
+                				<div class="lptw-post-thumbnail">
+                    <a href="https://voteaupluriel.org/blogging/crypto-currency-mining-what-is-it/" class="lptw-post-thumbnail-link"><div class="overlay overlay-light"><img src="https://voteaupluriel.org/wp-content/uploads/2019/02/bitcoin-hash-rate.png" alt="Crypto-currency mining: what is it?" /></div>
+                    <div class="lptw-post-header">
+        		    	            		    	        	    			<span class="lptw-post-date date-light">02/27/2019 11:16 am</span>
+            			                		    	        		    		<span class="lptw-post-title title-light">Crypto-currency mining: what is it?</span>
+            			                		    	            			                    </div>
+                    </a>
+                </div>
+                			</li>
+		        
+
+			<li>
+                				<div class="lptw-post-thumbnail">
+                    <a href="https://voteaupluriel.org/through-the-use-of-technologies/deeptech-the-resurgence-of-breakthrough-technological-innovations/" class="lptw-post-thumbnail-link"><div class="overlay overlay-light"><img src="https://voteaupluriel.org/wp-content/uploads/2019/04/lab.jpg" alt="Deeptech: The resurgence of breakthrough technological innovations!" /></div>
+                    <div class="lptw-post-header">
+        		    	            		    	        	    			<span class="lptw-post-date date-light">05/06/2019 4:50 pm</span>
+            			                		    	        		    		<span class="lptw-post-title title-light">Deeptech: The resurgence of breakthrough technological innovations!</span>
+            			                		    	            			                    </div>
+                    </a>
+                </div>
+                			</li>
+		        
+
+			<li>
+                				<div class="lptw-post-thumbnail">
+                    <a href="https://voteaupluriel.org/future-inventions/stadia-unable-to-provide-4k-at-60-as-promised-google-responds-to-criticism/" class="lptw-post-thumbnail-link"><div class="overlay overlay-light"><img src="https://voteaupluriel.org/wp-content/uploads/2019/12/mobile_game.jpg" alt="Stadia: unable to provide 4K at 60 as promised, Google responds to criticism" /></div>
+                    <div class="lptw-post-header">
+        		    	            		    	        	    			<span class="lptw-post-date date-light">11/29/2019 10:11 am</span>
+            			                		    	        		    		<span class="lptw-post-title title-light">Stadia: unable to provide 4K at 60 as promised, Google responds to criticism</span>
+            			                		    	            			                    </div>
+                    </a>
+                </div>
+                			</li>
+		        
+
+			<li>
+                				<div class="lptw-post-thumbnail">
+                    <a href="https://voteaupluriel.org/future-inventions/zoom-videoconferencing-application-reached-200-million-daily-users/" class="lptw-post-thumbnail-link"><div class="overlay overlay-light"><img src="https://voteaupluriel.org/wp-content/uploads/2020/04/zoom.jpg" alt="Zoom videoconferencing application reached 200 million daily users" /></div>
+                    <div class="lptw-post-header">
+        		    	            		    	        	    			<span class="lptw-post-date date-light">04/11/2020 1:04 am</span>
+            			                		    	        		    		<span class="lptw-post-title title-light">Zoom videoconferencing application reached 200 million daily users</span>
+            			                		    	            			                    </div>
+                    </a>
+                </div>
+                			</li>
+				</ul>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><p>  <a target="_blank" rel="nofollow noopener noreferrer" href="https://insightrix.com/online-voting/"><br />
+<img class="aligncenter" src="https://www.voteaupluriel.org/wp-content/uploads/2017/09/300x300-seehow-onlinevotingbanner.png" /></a></p>
+</div>
+		</aside>				</div>
+								
+			</div>
+		</div>
+	</section>
+<footer id="site-footer" class="site-footer">
+		<div class="site-footer-bottom">
+		<div class="site-container text-center">
+						
+			Theme by			<a href="http://www.scissorthemes.com/" traget="_blank"> Scissor Themes</a>
+			Proudly powered by			<a href="https://wordpress.org/" traget="_blank"> WordPress</a>
+			
+		</div>
+	</div>
+	
+</footer><!-- / footer -->
+</div> <!-- / wrapper -->
+<div class="site-navigation-overlay"></div>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/masonry.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/jquery/jquery.masonry.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/plugins/advanced-recent-posts/lptw-recent-posts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/voteaupluriel.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/pace.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/modernizr.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/cssua.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/slick.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/jquery.scrollUp.min.js'></script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-content/themes/writee/assets/js/main.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+				jQuery("#site-banner-carousel").slick({ dots: true, infinite: true,slidesToShow: 1,  slidesToScroll: 1, autoplay: true,autoplaySpeed: 5000, pauseOnHover: true,
+				arrows: true,prevArrow : '<span class="slick-prev"></span>',nextArrow : '<span class="slick-next"></span>',customPaging: function(slider, i) {return '<span>' + (i + 1) + '</span>';},cssEase: 'ease-in-out', easing: 'ease-in-out',lazyLoad: true,
+				rtl: RTL,responsive: [{ breakpoint: 1200, settings: {	slidesToShow: 1  }}]});});
+</script>
+<script type='text/javascript' src='https://voteaupluriel.org/wp-includes/js/wp-embed.min.js'></script>
+</body>
+</html>
